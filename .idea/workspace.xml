@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d76e1b8-8833-42d7-8752-85b4576f93dc" name="Changes" comment="" />
+    <list default="true" id="8d76e1b8-8833-42d7-8752-85b4576f93dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Utkarsh.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +13,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
